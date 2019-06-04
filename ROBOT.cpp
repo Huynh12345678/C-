@@ -1,6 +1,6 @@
-# Ho va ten: Le Xuan Huynh
-# Lop: 58TH1
-# Ma sinh vien: 1651061098
+//Ho va ten: Le Xuan Huynh
+//Lop: 58TH1
+//Ma sinh vien: 1651061098
 
 
 #include <GL/gl.h>
